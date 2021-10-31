@@ -1,0 +1,20 @@
+﻿  프림- MST.cpp
+C:\Users\user\source\repos\자료구조 및 알고리즘\(프림)최소스패닝트리\(프림)최소스패닝트리\프림- MST.cpp(89,9): warning C4244: 'return': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\utility(193,16): warning C4244: '초기화 중': '__int64'에서 '_Ty1'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\user\source\repos\자료구조 및 알고리즘\(프림)최소스패닝트리\(프림)최소스패닝트리\프림- MST.cpp(78): message : 컴파일되는 함수 템플릿 인스턴스화 'std::pair<int,int>::pair<__int64&,int&,0>(_Other1,_Other2) noexcept'에 대한 참조를 확인하세요.
+          with
+          [
+              _Other1=__int64 &,
+              _Other2=int &
+          ]
+C:\Users\user\source\repos\자료구조 및 알고리즘\(프림)최소스패닝트리\(프림)최소스패닝트리\프림- MST.cpp(78): message : 컴파일되는 함수 템플릿 인스턴스화 'std::pair<int,int>::pair<__int64&,int&,0>(_Other1,_Other2) noexcept'에 대한 참조를 확인하세요.
+          with
+          [
+              _Other1=__int64 &,
+              _Other2=int &
+          ]
+  (프림)최소스패닝트리.vcxproj -> C:\Users\user\source\repos\자료구조 및 알고리즘\(프림)최소스패닝트리\Debug\(프림)최소스패닝트리.exe
